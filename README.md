@@ -606,6 +606,10 @@ userspace attacks, but cannot attack Xen.
 
 * [Advisory](https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180104-cpusidechannel) available with list of products currently under investigation, affected products and potential fix availability (current expected date 18-Feb-2018). Relevant for Cisco UCS server product range, that require microcode update to resolve the issue.
 
+### DellEMC
+
+* [Advisory](http://www.dell.com/support/article/uk/en/ukbsdt1/sln308588/microprocessor-side-channel-attacks--cve-2017-5715--cve-2017-5753--cve-2017-5754---impact-on-dell-emc-products--dell-enterprise-servers--storage-and-networking-?lang=en#os) available with list of BIOS versions with microcode updates.
+
 ## Future Speculation
 
 [BTI], [PRIV-READ], and [PRIV-REG] are CPU implementation bugs that are easily
