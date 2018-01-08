@@ -610,6 +610,10 @@ userspace attacks, but cannot attack Xen.
 
 * [Advisory](http://www.dell.com/support/article/uk/en/ukbsdt1/sln308588/microprocessor-side-channel-attacks--cve-2017-5715--cve-2017-5753--cve-2017-5754---impact-on-dell-emc-products--dell-enterprise-servers--storage-and-networking-?lang=en#os) available with list of BIOS versions with microcode updates.
 
+### Lenovo
+
+* [Advisory](https://support.lenovo.com/gb/es/solutions/len-18282) available with list of affected systems and available updates.
+
 ## Future Speculation
 
 [BTI], [PRIV-READ], and [PRIV-REG] are CPU implementation bugs that are easily
